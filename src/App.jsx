@@ -250,7 +250,7 @@ function Hero({ onOpenAuth }) {
           {/* Stats */}
           <div className="hero-stats">
             {[
-              ['10+', 'Películas'],
+              ['100+', 'Películas'],
               ['10+',  'Géneros'],
               ['100%', 'Gratis'],
             ].map(([n, l], i, arr) => (
