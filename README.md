@@ -156,6 +156,6 @@ Accion, Drama, Ciencia Ficcion, Crimen, Comedia, Fantasia, Suspense, Terror, Ani
 
 ---
 
-## Autor
+## Autores
 
-Proyecto desarrollado por **Juan Esteban Vasco** para la materia de Plataformas Empresariales.
+Proyecto desarrollado por **Juan Manuel Arias y Juan Esteban Vasco** para la materia de Plataformas Empresariales.
